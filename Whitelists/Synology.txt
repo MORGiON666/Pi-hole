@@ -1,0 +1,108 @@
+# DSM Update Download Site
+global.download.synology.com
+global.synologydownload.com
+update.synology.com
+update7.synology.com
+autoupdate.synology.com
+autoupdate7.synology.com
+# Package Center
+payment.synology.com
+account.synology.com
+global.download.synology.com
+download.synology.com
+www.synology.com
+www.synology.com/company/term_packagecenter.php
+pkgautoupdate7.synology.com
+pkgupdate7.synology.com
+pkgautoupdate.synologyupdate.com
+global.synologydownload.com
+# Active Insight
+api.insight.synology.com
+collectorupdate7.synology.com
+collectorautoupdate7.synology.com
+subscribe.insight.synology.com
+supapi.synology.com
+# Configuration Backup
+synoconf.synology.com
+synoconfkms.synology.com
+# DDNS
+account.synology.com
+ddns.synology.com
+# External IP Analyser
+checkip.synology.com
+checkip.dyndns.org
+checkipv6.synology.com
+# File Sharing
+gofile.me
+# Help
+help.synology.com
+# Port Connection Test
+checkport.synology.com 
+# Push Service
+sns.synology.com
+notification.synology.com
+apiauth.quickconnect.to
+# Quick Connect
+global.quickconnect.to
+usc.quickconnect.to
+dec.quickconnect.to
+orlp.lp.cs.quickconnect.to
+uslp.lp.cs.quickconnect.to
+frlp.lp.cs.quickconnect.to
+delp.lp.cs.quickconnect.to
+orch.lp.cs.quickconnect.to
+frch.lp.cs.quickconnect.to
+orp1.punch.cs.quickconnect.to
+orp2.punch.cs.quickconnect.to
+frp1.punch.cs.quickconnect.to
+frp2.punch.cs.quickconnect.to
+frp3.punch.cs.quickconnect.to
+frp4.punch.cs.quickconnect.to
+signal.us3.webrtc.quickconnect.to
+signal.de3.webrtc.quickconnect.to
+twr1.re.cs.quickconnect.to
+twr2.re.cs.quickconnect.to
+twr3.re.cs.quickconnect.to
+twr4.re.cs.quickconnect.to
+twr5.re.cs.quickconnect.to
+twr6.re.cs.quickconnect.to
+czr3.re.cs.quickconnect.to
+czr4.re.cs.quickconnect.to
+czr5.re.cs.quickconnect.to
+der6.re.cs.quickconnect.to
+der7.re.cs.quickconnect.to
+der8.re.cs.quickconnect.to
+der9.re.cs.quickconnect.to
+frr1.re.cs.quickconnect.to
+frr2.re.cs.quickconnect.to
+frr3.re.cs.quickconnect.to
+frr4.re.cs.quickconnect.to
+sgr3.re.cs.quickconnect.to
+sgr4.re.cs.quickconnect.to
+usr1.re.cs.quickconnect.to
+usr2.re.cs.quickconnect.to
+usr3.re.cs.quickconnect.to
+usr5.re.cs.quickconnect.to
+usr6.re.cs.quickconnect.to
+apiauth.quickconnect.to
+checkipv6.quickconnect.to
+checkip.webrtc.quickconnect.to
+relayinfo.quickconnect.to
+# Router/UPnP Database
+download.synology.com/routerdb
+# Security Advisor
+dataupdate.synology.com
+# Support Center
+account.synology.com
+kb.synology.com
+www.synology.com/company/legal/Services_Data_Collection_Disclosure#technical-support
+www.synology.com/company/legal/privacy
+# Synology Account
+account.synology.com
+identity.synology.com
+# Synology SSD/HDD Update Pack
+dataupdate7.synology.com
+dataautoupdate7.synology.com
+dataautoupdate7.synology.cn
+# UPnP Compatibility Results Uploader
+report.synology.com/upload.php
