@@ -11,7 +11,6 @@ account.synology.com
 global.download.synology.com
 download.synology.com
 www.synology.com
-www.synology.com/company/term_packagecenter.php
 pkgautoupdate7.synology.com
 pkgupdate7.synology.com
 pkgautoupdate.synologyupdate.com
@@ -88,15 +87,11 @@ apiauth.quickconnect.to
 checkipv6.quickconnect.to
 checkip.webrtc.quickconnect.to
 relayinfo.quickconnect.to
-# Router/UPnP Database
-download.synology.com/routerdb
 # Security Advisor
 dataupdate.synology.com
 # Support Center
 account.synology.com
 kb.synology.com
-www.synology.com/company/legal/Services_Data_Collection_Disclosure#technical-support
-www.synology.com/company/legal/privacy
 # Synology Account
 account.synology.com
 identity.synology.com
@@ -105,4 +100,4 @@ dataupdate7.synology.com
 dataautoupdate7.synology.com
 dataautoupdate7.synology.cn
 # UPnP Compatibility Results Uploader
-report.synology.com/upload.php
+report.synology.com
